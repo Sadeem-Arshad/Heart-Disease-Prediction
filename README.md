@@ -28,7 +28,7 @@ The system is deployed as a **web-based interactive dashboard** built with **Str
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 * **Python 3.8+**
 * **Streamlit** – Web application interface
@@ -71,7 +71,7 @@ The model used in this project is a **Random Forest Classifier**, chosen for its
 
 ---
 
-# 👨‍💻 Contributors
+#  Contributors
 
 Developed by:
 
